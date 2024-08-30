@@ -10,3 +10,4 @@ psutil==5.9.5
 PyGetWindow==0.0.9
 PyRect==0.2.0
 tkcalendar==1.6.1
+selenium
